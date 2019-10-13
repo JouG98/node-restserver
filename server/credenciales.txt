@@ -1,0 +1,7 @@
+joguMaster16
+
+Sj2rQSliM7P4pFEC
+
+MongoDB URL
+
+mongodb+srv://joguMaster16:Sj2rQSliM7P4pFEC@cluster0-2yzbu.mongodb.net/cafe
